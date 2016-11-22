@@ -11,6 +11,7 @@
     tools:context="xiaomi.mich.com.android_mapapi.MainActivity">
 
     <TextView
+        android:id="@+id/titletext"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
